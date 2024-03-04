@@ -90,8 +90,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/satyam-qouq/satyam-qouq/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
