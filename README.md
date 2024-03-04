@@ -1,5 +1,5 @@
 
-# I'm <b>Satyam Sharma ✨ </b>,<br> 
+# I'm <b>Satyam Sharma ✨ </b><br> 
 a passionate self-taught <b>Full Stack Developer</b> and a freelance software engineer from India.<br>
 💼 Any freelance work? do reach, by email :) <br> 💬 Ask me about anything, I am happy to help;
 
