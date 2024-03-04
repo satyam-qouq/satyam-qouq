@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="1200 "src="https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064"  />
+  <img height="300" src="https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064"  />
 </div>
 
 ###
@@ -13,12 +13,6 @@
 ###
 
 <h4 align="left">💼 Any freelance work? do reach, by email : satyamsharmaqouq@gmail.com<br>💬 Ask me about anything, I am happy to help :-)<br>🌱 I’m currently learning Full Stack Development.</h4>
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://profile-counter.glitch.me/satyam-qouq/count.svg?"  />
 
 ###
 
@@ -40,6 +34,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" src="https://profile-counter.glitch.me/satyam-qouq/count.svg?"  />
 
 ###
 
@@ -81,14 +81,16 @@
 
 ###
 
+<h2 align="left">Progress :</h2>
+
+###
+
 <br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=satyam-qouq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-qouq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
 
 ###
 
