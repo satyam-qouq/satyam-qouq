@@ -2,7 +2,8 @@
 #I'm <b>Satyam Sharma</b>,<br> a passionate self-taught <b>Full Stack Developer</b> and a freelance software engineer from India.<br>
 💼 Any freelance work? do reach, by email :) <br> 💬 Ask me about anything, I am happy to help;
 
-https://visitcount.itsvg.in/api?id=satyam-qouq&icon=1&color=0
+![](https://visitcount.itsvg.in/api?id=satyam-qouq&icon=1&color=0)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/xnGFHFRh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamqouq) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_satyam11) 
 
@@ -26,3 +27,4 @@ https://visitcount.itsvg.in/api?id=satyam-qouq&icon=1&color=0
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+
